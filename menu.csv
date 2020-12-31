@@ -1,9 +1,9 @@
 menuid;name;submenu
-1;Acasa;false
-2;Despre mine;false
-3;Infintari firme;true
-4;Modificari firme ;true
-5;Radieri firme;true
-6;Traduceri;false
-7;Consiliere gratuita;false
-8;Contact;false
+1;Acasa;0
+2;Despre mine;0
+3;Infintari firme;1
+4;Modificari firme ;1
+5;Radieri firme;1
+6;Traduceri;1
+7;Consiliere gratuita;0
+8;Contact;0
