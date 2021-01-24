@@ -1,16 +1,16 @@
 menuid;submenuid;name;descriere;termen;text1;text2;foto;n
-3;1;Infintare SRL;SRL - adica societate cu raspundere limitata -este cea mai uzuala forma de functionare.;2 zile lucratoare din momentul in care dosarul este depus la Registrul Comertului.;;;infintare1;1
-3;2;Infintare SRL-D;Daca nu ati mai avut pana acum o firma, va puteti infiinta un SRL-D, iar taxele de la ONRC sunt GRATUITE! Ce este un SRL-D? Societatea cu Raspundere Limitata – Debutant este reglementata de catre Ordonanta de Urgenta 6/2011 si a fost realizata in vederea stimularii infiintarii si dezvoltarii microintreprinderilor de catre intreprinzatorii debutan?i.;2 zile lucratoare din momentul in care dosarul este depus la Registrul Comertului;;;infintare2;1
-3;3;Infintare PFA;descriere…;termen…;;;infintare3;1
-3;4;Infintare II;descriere…;termen…;;;infintare4;1
-3;5;Infintare IF;descriere…;termen…;;;infintare5;1
-4;1;submenu 1;descriere…;termen…;;;;1
-4;2;submenu 2;descriere…;termen…;;;;1
-4;3;submenu 3;descriere…;termen…;;;;1
-4;4;submenu 4;descriere…;termen…;;;;1
-4;5;submenu 5;descriere…;termen…;;;;1
-4;6;submenu 6;descriere…;termen…;;;;1
-5;1;submenu 1;descriere…;termen…;;;;1
-5;2;submenu 2;descriere…;termen…;;;;1
-5;3;submenu 3;descriere…;termen…;;;;1
-5;4;submenu 4;descriere…;termen…;;;;1
+3;1;Infintare SRL;SRL - adica societate cu raspundere limitata -este cea mai uzuala forma de functionare.;Termen:2 zile lucratoare din momentul in care dosarul este depus la Registrul Comertului.;;;infintare1;1
+3;2;Infintare SRL-D;Daca nu ati mai avut pana acum o firma, va puteti infiinta un SRL-D, iar taxele de la ONRC sunt GRATUITE! Ce este un SRL-D? Societatea cu Raspundere Limitata â€“ Debutant este reglementata de catre Ordonanta de Urgenta 6/2011 si a fost realizata in vederea stimularii infiintarii si dezvoltarii microintreprinderilor de catre intreprinzatorii debutan?i.;Termen: 2 zile lucratoare din momentul in care dosarul este depus la Registrul Comertului;;;infintare2;1
+3;3;Infintare PFA;descriereâ€¦;termenâ€¦;;;infintare3;1
+3;4;Infintare II;descriereâ€¦;termenâ€¦;;;infintare4;1
+3;5;Infintare IF;descriereâ€¦;termenâ€¦;;;infintare5;1
+4;1;submenu 1;descriereâ€¦;termenâ€¦;;;;1
+4;2;submenu 2;descriereâ€¦;termenâ€¦;;;;1
+4;3;submenu 3;descriereâ€¦;termenâ€¦;;;;1
+4;4;submenu 4;descriereâ€¦;termenâ€¦;;;;1
+4;5;submenu 5;descriereâ€¦;termenâ€¦;;;;1
+4;6;submenu 6;descriereâ€¦;termenâ€¦;;;;1
+5;1;submenu 1;descriereâ€¦;termenâ€¦;;;;1
+5;2;submenu 2;descriereâ€¦;termenâ€¦;;;;1
+5;3;submenu 3;descriereâ€¦;termenâ€¦;;;;1
+5;4;submenu 4;descriereâ€¦;termenâ€¦;;;;1
